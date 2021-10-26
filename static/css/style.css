@@ -1,0 +1,37 @@
+.signup-bg{
+    position: absolute;
+    background-repeat: no-repeat;  background-attachment: fixed;  background-size: cover;
+    z-index: -1;
+}
+
+
+.but {border-radius: 5%;
+    font-size: 1.5rem;
+    padding: 10px;
+    background-color: #FAF3F3;
+    font-family: 'Montserrat', sans-serif;
+    color: #907FA4;
+    font-weight: 600;
+    width: 250px;
+    border-color: black;}
+    .but:hover
+  {
+    background-color: #EFF8FF;
+    color: #99154E;
+    border-color: black;
+  }
+
+  .errorlist  {
+    border: 1px solid;
+    margin: 10px 0px;
+    padding: 15px 10px 15px 50px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+  }
+
+  .errorlist{
+    color: #D63301;
+    background-color: #FFCCBA;
+    background-image: url('https://i.imgur.com/GnyDvKN.png');
+}
+

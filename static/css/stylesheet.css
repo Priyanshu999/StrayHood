@@ -1,0 +1,149 @@
+body{
+    /* margin: 0px;
+    padding: 0px; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main{
+    /* background-color: aqua; */
+    width: 95vw;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 30px;
+    padding: 20px;
+    padding-left: 30px;
+}
+
+#left{
+    width: 30%;
+    background-color: rgb(240, 240, 240);
+    text-align: center;
+    display: inline-block;
+    float: left;
+    margin-left: 0px;
+}
+
+img{
+    margin-top: 30px;
+    border-radius: 0%;
+    margin-bottom: 30px;
+}
+
+h1{
+    font-size: 40px;
+    /* margin-top: 100px; */
+    margin-bottom: 80px;
+}
+
+ul{
+    text-decoration: none;
+    list-style: none;
+    padding: 0px;
+}
+
+ul li{
+    margin: 20px;
+    font-size: 20px;
+    color: rgb(71, 71, 71);
+}
+
+#right{
+    display: inline-block;
+    background-color: rgb(240, 240, 240);
+    width: 65%;
+    margin-left: 50px;
+    padding-bottom: 50px;
+}
+
+#top{
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+    padding-top: 70px;
+    margin-bottom: 50px;
+}
+
+#blogs{
+    display: inline-block;
+    text-align: center;
+    margin-left: 100px;
+    float: left;
+}
+
+#follower{
+    display: inline-block;
+    text-align: center;
+}
+
+#rating{
+    display: inline-block;
+    text-align: center;
+    float: right;
+    margin-right: 100px;
+}
+
+#blogs h1 , #follower h1, #rating h1{
+    margin-top: 0px;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+#blogs h2 , #follower h2, #rating h2{
+    font-size: 20px;
+}
+
+#about{
+    padding-left: 60px;
+    margin-bottom: 60px;
+}
+
+#info{
+    padding-left: 60px;
+
+}
+
+#email h1, #contact h1{
+    font-weight: 700px;
+    font-size: 20px;
+}
+
+#email h2, #contact h2{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#email{
+    margin-bottom: 20px;
+}
+
+#about h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#about ul{
+    list-style-type:circle;
+}
+
+#buttons{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+#buttons button{
+    width: 250px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 15px;
+    font-size: 20px;
+    background-color: rgb(20, 250, 173);
+    border: none;
+    border-radius: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+
+
+
